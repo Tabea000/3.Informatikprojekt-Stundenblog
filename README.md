@@ -47,9 +47,12 @@
 
 ### <a name="zwei"></a>Zweite Informatikstunde am 16.2.2018
 - Suche nach genauer Anleitung für ein 3D Programmieren
-- https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project
+- https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project -> genommen
 - https://scratch-dach.info/wiki/3D_in_Scratch
 - https://scratch.mit.edu/projects/47766/#editor
+
+- Erstellen der geforderten Variablen
+
 
 ### <a name="eins"></a>Erste Informatikstunde am 15.2.2018
 - Suchen auf Youtube
