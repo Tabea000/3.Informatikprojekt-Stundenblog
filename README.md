@@ -50,6 +50,8 @@
 - https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project -> genommen
 - https://scratch-dach.info/wiki/3D_in_Scratch
 - https://scratch.mit.edu/projects/47766/#editor
+- Bauen der Blöcke: Transformation (scale, translation, rotation (roll, pitch, yaw)), Projection
+- Vereinen der Blöcke auf Bausteine 
 
 - Erstellen der geforderten Variablen
 
