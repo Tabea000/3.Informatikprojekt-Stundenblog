@@ -38,8 +38,10 @@
 
 
 ### <a name="vier"></a>Vierte Informatikstunde am 
-
-
+- Block zu Ende
+- Anfangsbaustein
+- Fehleranalyse
+- Block funktioniert vielleicht
 
 ### <a name="drei"></a>Dritte Informatikstunde am 22.2.2018
 - Tabea schaut das Projekt an
