@@ -41,8 +41,9 @@
 
 
 
-### <a name="drei"></a>Dritte Informatikstunde am 
-
+### <a name="drei"></a>Dritte Informatikstunde am 22.2.2018
+- Tabea schaut das Projekt an
+- Weiterarbeiten nach Anleitung
 
 
 ### <a name="zwei"></a>Zweite Informatikstunde am 16.2.2018
