@@ -35,6 +35,9 @@
 
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 
+- size Block
+- Versuch Bewegung auf y achse
+- stamp 3 D
 
 
 ### <a name="vier"></a>Vierte Informatikstunde am 23.2.2018
