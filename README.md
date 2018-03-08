@@ -31,10 +31,15 @@
 ### <a name="sieben"></a>Siebte Informatikstunde am 
 
 
-### <a name="sechs"></a>Sechste Informatikstunde am 
+### <a name="sechs"></a>Sechste Informatikstunde am 2.3.
+- stamp 3 D mit verschiedenen geometrischen Formen
+- Zeichenversuche
+- Schießen
+- Mausfokus
+- Versuch Bewegung auf y-Achse
+- Plan Hausbau
 
-
-### <a name="fünf"></a>Fünfte Informatikstunde am 
+### <a name="fünf"></a>Fünfte Informatikstunde am 1.3.
 - size Block
 - Versuch Bewegung auf y achse
 - stamp 3 D
