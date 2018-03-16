@@ -28,14 +28,15 @@
 [Zwölfte Stunde](#zwölf)
 
 ### <a name="acht"></a>Achte Informatikstunde am 8.3.
-
-
+-schreiben im Stundenblog
+- _herausfinden, dass es eine kursive Schrift gibt
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 8.3.
 - Falsche Umsetzung des vorherigen Projektes
 -> Besprechen der Konsequenzen für betroffene Gruppen  
--Pyramideneffekt
-- andere unsichtbar
+- Pyramideneffekt
+- andere unsichtbar, dann auf einen Sprite vereint
+
 
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3.
