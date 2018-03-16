@@ -27,8 +27,15 @@
 
 [Zwölfte Stunde](#zwölf)
 
+### <a name="acht"></a>Achte Informatikstunde am 8.3.
 
-### <a name="sieben"></a>Siebte Informatikstunde am 
+
+
+### <a name="sieben"></a>Siebte Informatikstunde am 8.3.
+- Falsche Umsetzung des vorherigen Projektes
+-> Besprechen der Konsequenzen für betroffene Gruppen  
+-Pyramideneffekt
+- andere unsichtbar
 
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3.
