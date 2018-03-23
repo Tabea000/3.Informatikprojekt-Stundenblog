@@ -27,6 +27,11 @@
 
 [Zwölfte Stunde](#zwölf)
 
+### <a name="neun"></a>Neunte Informatikstunde am 23.3.
+Häuser bauen (schiefes dach -> Mittelpunkt) versch. Formen und Größen
+Sortieren unseres Snap Programms
+
+
 ### <a name="acht"></a>Achte Informatikstunde am 8.3.
 -schreiben im Stundenblog
 _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
