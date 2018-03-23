@@ -30,6 +30,8 @@
 ### <a name="acht"></a>Achte Informatikstunde am 8.3.
 -schreiben im Stundenblog
 _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
+- Lehrerranking
+
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 8.3.
 - Falsche Umsetzung des vorherigen Projektes
