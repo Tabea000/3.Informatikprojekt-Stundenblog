@@ -25,6 +25,7 @@
 ### <a name="neun"></a>Neunte Informatikstunde am 23.3.
 Häuser bauen (schiefes dach -> Mittelpunkt) versch. Formen und Größen
 Sortieren unseres Snap Programms
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
@@ -32,6 +33,7 @@ Sortieren unseres Snap Programms
 -schreiben im Stundenblog
 _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 - Lehrerranking
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
@@ -40,6 +42,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 -> Besprechen der Konsequenzen für betroffene Gruppen  
 - Pyramideneffekt
 - andere unsichtbar, dann auf einen Sprite vereint
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
@@ -50,6 +53,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 - Mausfokus
 - Versuch Bewegung auf y-Achse
 - Plan Hausbau
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
@@ -57,6 +61,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 - size Block
 - Versuch Bewegung auf y achse
 - stamp 3 D
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 ### <a name="vier"></a>Vierte Informatikstunde am 23.2.2018
@@ -64,17 +69,22 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 - Anfangsbaustein
 - Fehleranalyse
 - Block funktioniert vielleicht
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 ### <a name="drei"></a>Dritte Informatikstunde am 22.2.2018
 - Tabea schaut das Projekt an
 - Weiterarbeiten nach Anleitung
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
-### <a name="zwei"></a>Zweite Informatikstunde am 16.2.2018
-- Suche nach genauer Anleitung für ein 3D Programmieren
 
+### <a name="zwei"></a>Zweite Informatikstunde am 16.2.2018
+
+Da heute leider Tabea fehlte, musste ich alleine weiter schauen, wie wir unser Ziel für dieses Projekt umsetzen könnten. Dafür schaute ich  außerhalb von Youtube nach Anleitungen und Hilfestellungen für das Programmieren mit 3D Effekten. 
+
+Neben der offiziellen Seite von Scratch (Vorgänger von snap), welche eine Erläuterung für  <a href="https://scratch-dach.info/wiki/3D in Scratch">3D in Scratch</a> anbietet und bei der öffentliche, abgeschlossene Projekte verlinkt sind,wie dieses <a href="- https://scratch.mit.edu/projects/47766/#editor">Beispiel</a>, schaute ich mir auch die englischsprachige Version an, welche verständlicher und weniger theoritisch, als die deutsche version ist, an. Für "<a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">How to Make a Three-Dimensional Project</a>" entschied ich mich schließlich .
 - https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project -> genommen
 
 - https://scratch-dach.info/wiki/3D_in_Scratch
@@ -82,8 +92,8 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 - Erstellen der geforderten Variablen
 - Bauen der Blöcke: Transformation (scale, translation, rotation (roll, pitch, yaw)), Projection
 - Vereinen der Blöcke auf Bausteine 
-[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 ### <a name="eins"></a>Erste Informatikstunde am 15.2.2018
@@ -94,7 +104,7 @@ Dabei stießen wir auf verschiedene Spiele, die vielschichtiger sind als die, di
 ">diesem</a> Video. Beispiele dafür sind zwar nicht so reichlich, doch einfache Figuren wie Würfel, Häuser und Pyramiden würden wir notfalls versuchen selbt zu erarbeiten.
 
 Zuletzt besprachen wir mit Herrn Buhl, ob der Anspruch dieses Zieles angemessen für die abschließende Ersatzleistung sei. Da er uns dies 
-zutraute und dem Projekt seinen Zuspeuch gab, nahmen wir uns für die nächsten Stunden die Arbeit an dreidimensionalen effekten vor.
+zutraute und dem Projekt seinen Zuspeuch gab, nahmen wir uns für die nächsten Stunden die Arbeit an dreidimensionalen Effekten vor.
 
-https://www.youtube.com/watch?v=bTn4S9WyVUc
+
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
