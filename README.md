@@ -85,13 +85,9 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 Da heute leider Tabea fehlte, musste ich alleine weiter schauen, wie wir unser Ziel für dieses Projekt umsetzen könnten. Dafür schaute ich  außerhalb von Youtube nach Anleitungen und Hilfestellungen für das Programmieren mit 3D Effekten. 
 
 Neben der offiziellen Seite von Scratch (Vorgänger von snap), welche eine Erläuterung für  <a href="https://scratch-dach.info/wiki/3D in Scratch">3D in Scratch</a> anbietet und bei der öffentliche, abgeschlossene Projekte verlinkt sind,wie dieses <a href="- https://scratch.mit.edu/projects/47766/#editor">Beispiel</a>, schaute ich mir auch die englischsprachige Version an, welche verständlicher und weniger theoritisch, als die deutsche version ist, an. Für "<a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">How to Make a Three-Dimensional Project</a>" entschied ich mich schließlich .
-- https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project -> genommen
 
-- https://scratch-dach.info/wiki/3D_in_Scratch
-- https://scratch.mit.edu/projects/47766/#editor
-- Erstellen der geforderten Variablen
-- Bauen der Blöcke: Transformation (scale, translation, rotation (roll, pitch, yaw)), Projection
-- Vereinen der Blöcke auf Bausteine 
+Somit begann ich im Anschluss mit dem erstellen der geforderten Variablen und fügte sie so zu den fertigen Bausteinen hinzu. Dieselben nutzte ich im Anschluss, um die kurzen Untereinheiten für Transformation (scale, translation und rotation (roll pitch, yaw)) und Projektion zu erstellen und somit eine Überschreibung von den zweidimensionalen daten zu dreidimensionalen zu ermöglichen. Außerdem vereinte ich funktionelle Bauseingruppen über die Funktion "make a block" zu Bausteinen, damit deren Nutzung unkomplizerter wird. Zuletzt ließ ich für die kommende Stunde meine Ergebnisse zunächst gespeichert und sortiert liegen. Für die nächste Stunde nehme ich mir vor, mit Tabea gemeinsam die genaueren Zusammenhänge zwischen den Bausteinen , Blöcken und deren Funktionen zu erschließen und die letzten Glieder des Gsamtblockes zu programmieren.
+ 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
