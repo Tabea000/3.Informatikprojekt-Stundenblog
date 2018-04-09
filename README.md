@@ -89,10 +89,10 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 Heute war es an der Reihe, sich zu entscheiden, welchem Themengebiet der Informatik wir uns in der nächsten Zeit widmen wollen. Da nun das dritte und letzte Projekt ansteht und wir uns in diesem komplizierteren Aufgaben zuwenden sollten, beschlossen wir ein weiteres Mal uns Anregungen auf Youtube zu suchen.
 
-Dabei stießen wir auf verschiedene Spiele, die vielschichtiger sind als die, die wir in dem vorhergegangenen Projekt bearbeitet haben. Zu diesen zählten unter andem ein Irrwald, ein Basketball und ein Jump´n run Spiel, und diese auch auf verschiedenen Level-Ebenen. Wir entschlossen uns letztendlich 
-- Suchen auf Youtube
-- Entscheidung zwischn verschiedenen Spielen etc. : Irrwald, Basketball, Jump ´n run etc.
-- Finden von 3D Programmieren: ähnlich minecraft -> einfache Figuren wie Würfel, Häuser usw.
-- Besprechen mit Herrn Buhl ob Anspruch hoch genug ist
+Dabei stießen wir auf verschiedene Spiele, die vielschichtiger sind als die, die wir in dem vorhergegangenen Projekt bearbeitet haben. Zu diesen zählten unter andem ein Irrwald, ein Basketball und ein Jump´n run Spiel, und diese auch auf verschiedenen Level-Ebenen. Wir entschlossen uns letztendlich für das Programmieren von dreidimensionalen Formen mithilfe des Programmes "<a href="http://snap.berkeley.edu/snapsource/snap.html">Snap</a>". Die Idee entstammte <a href="https://www.youtube.com/watch?v=bTn4S9WyVUc
+">diesem</a> Video. Beispiele dafür sind zwar nicht so reichlich, doch einfache Figuren wie Würfel, Häuser und Pyramiden würden wir notfalls versuchen selbt zu erarbeiten.
+
+Zuletzt besprachen wir mit Herrn Buhl, ob der Anspruch dieses Zieles angemessen für die abschließende Ersatzleistung sei. Da er uns dies 
+zutraute und dem Projekt seinen Zuspeuch gab, nahmen wir uns für die nächsten Stunden die Arbeit an dreidimensionalen effekten vor.
 
 https://www.youtube.com/watch?v=bTn4S9WyVUc
