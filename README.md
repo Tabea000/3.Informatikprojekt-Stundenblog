@@ -86,6 +86,10 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 
 ### <a name="eins"></a>Erste Informatikstunde am 15.2.2018
+
+Heute war es an der Reihe, sich zu entscheiden, welchem Themengebiet der Informatik wir uns in der nächsten Zeit widmen wollen. Da nun das dritte und letzte Projekt ansteht und wir uns in diesem komplizierteren Aufgaben zuwenden sollten, beschlossen wir ein weiteres Mal uns Anregungen auf Youtube zu suchen.
+
+Dabei stießen wir auf verschiedene Spiele, die vielschichtiger sind als die, die wir in dem vorhergegangenen Projekt bearbeitet haben. Zu diesen zählten unter andem ein Irrwald, ein Basketball und ein Jump´n run Spiel, und diese auch auf verschiedenen Level-Ebenen. Wir entschlossen uns letztendlich 
 - Suchen auf Youtube
 - Entscheidung zwischn verschiedenen Spielen etc. : Irrwald, Basketball, Jump ´n run etc.
 - Finden von 3D Programmieren: ähnlich minecraft -> einfache Figuren wie Würfel, Häuser usw.
