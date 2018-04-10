@@ -39,6 +39,7 @@ https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&Proje
 
 
 ### <a name="neun"></a>Neunte Informatikstunde am 23.3. 2
+
 Häuser bauen (schiefes dach -> Mittelpunkt) versch. Formen und Größen
 Sortieren unseres Snap Programms
 
@@ -46,6 +47,7 @@ Sortieren unseres Snap Programms
 
 
 ### <a name="acht"></a>Achte Informatikstunde am 9.3. 2
+
 -schreiben im Stundenblog
 _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 - Lehrerranking
@@ -54,6 +56,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 8.3. 1
+
 - Falsche Umsetzung des vorherigen Projektes
 -> Besprechen der Konsequenzen für betroffene Gruppen  
 - Pyramideneffekt
@@ -63,6 +66,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3. 2
+
 - stamp 3 D mit verschiedenen geometrischen Formen
 - Zeichenversuche
 - Schießen
@@ -73,22 +77,27 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
-### <a name="fünf"></a>Fünfte Informatikstunde am 1.3. 1
+
+### <a name="fünf"></a>Fünfte Informatikstunde am 1.3. 
 
 In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
 
-Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die 
-
-
-- size Block rechts
-- stamp 3 D links https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png
+Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot):
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "Variablen")
+
+Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://github.com/Tabea000/3.Informatikprojekt-Projektpraesentation">Projektpräsentation</a> beschrieben und das Snap-Projekt ist über diesen Link veröffentlicht und abrufbar. 
+
+
+
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
-### <a name="vier"></a>Vierte Informatikstunde am 23.2.2018 2
+
+
+
+### <a name="vier"></a>Vierte Informatikstunde am 23.2.2018 
 
 Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereiteten Bausteinen zusammen und uns fiel auf, dass Snap! keinen lila Baustein: "define: process vertex" vorliegen hatte. Zahlreiche Versuche den anfangsbaustein durch verschiedene Mittel nachzubauen, scheiterten leider. Unter anderem versuchten wir den Baustein im ganzen mittels "make a block" eigenständig zu erstellen, aber auch den eingesetzten Baustein zu errichten. Doch da kein leerer Startbaustein zu finden war und auch Herr Buhl uns nicht weiterhelfen konnte, entschieden wir uns schließlich für die Ausführung mit dem gewöhnlich Startbaustein, welcher an die Fahne gekoppelt ist. 
 
