@@ -86,8 +86,8 @@ Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatt
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "Variablen")
 
-Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://github.com/Tabea000/3.Informatikprojekt-Projektpraesentation">Projektpräsentation</a> beschrieben und das Snap-Projekt ist über diesen Link veröffentlicht und abrufbar. 
-
+Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://github.com/Tabea000/3.Informatikprojekt-Projektpraesentation">Projektpräsentation</a> beschrieben und das Snap-Projekt ist über diesen Link veröffentlicht und abrufbar:
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">Vorstellung der 3D Effekte</a>
 
 
 
