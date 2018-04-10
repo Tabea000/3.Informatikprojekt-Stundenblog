@@ -75,6 +75,8 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 1.3. 1
 
+In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale werte in dreidimensionale umschreiben. 
+
 
 - size Block
 - Versuch Bewegung auf y achse
