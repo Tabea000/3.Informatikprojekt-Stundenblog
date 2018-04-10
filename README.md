@@ -22,7 +22,7 @@
 [Neunte Stunde](#neun)
 
 
-
+Das sind die veröffentlichten Snap Projekte:
 
 
 # Vorstellung der 3D Effekte:
