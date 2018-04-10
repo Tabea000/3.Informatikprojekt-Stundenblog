@@ -22,6 +22,16 @@
 [Neunte Stunde](#neun)
 
 
+Vorstellung der 3D Effekte : https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte
+
+Pyramiden-Effekt: https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt
+
+Haus-Effekt: https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Haus-Effekt
+
+
+
+
+
 ### <a name="neun"></a>Neunte Informatikstunde am 23.3. 2
 Häuser bauen (schiefes dach -> Mittelpunkt) versch. Formen und Größen
 Sortieren unseres Snap Programms
@@ -73,7 +83,7 @@ Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereite
 Der nicht aufzufindende Startbaustein:
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/define%20process%20vertex.png?raw=true "Variablen")
 
-Unser abgeschlossener Block zum erschaffen eines 3D-Effektes:
+Unser abgeschlossener Block zum Erschaffen eines 3D-Effektes:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.2..png?raw=true "Variablen")
 
