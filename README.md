@@ -94,9 +94,11 @@ Somit begann ich im Anschluss mit dem Erstellen der geforderten Variablen und f�
 Dieselben nutzte ich im Anschluss, um die kurzen Untereinheiten für Transformation (scale, translation und rotation (roll pitch, yaw)) und Projektion zu erstellen und somit eine Überschreibung von den zweidimensionalen daten zu dreidimensionalen zu ermöglichen. Außerdem vereinte ich funktionelle Bauseingruppen über die Funktion "make a block" zu Bausteinen, damit deren Nutzung unkomplizerter wird.
 
 Vorgaben und Erläuterungen der Scratch-Seite (verlinkt über diesen Screenshot):
+
 <a href="https://en.scratch-wiki.info/wiki/How_to_Make_a_Three-Dimensional_Project">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Transformation.png?raw=true "Scratch")</a>
 
 Eigene Umsetzung auf Snap:
+
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.2..png?raw=true "Variablen")
 
 
