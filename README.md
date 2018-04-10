@@ -58,6 +58,8 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 1.3. 1
+
+
 - size Block
 - Versuch Bewegung auf y achse
 - stamp 3 D
@@ -66,7 +68,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 ### <a name="vier"></a>Vierte Informatikstunde am 23.2.2018 2
 
-Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereiteten Bausteinen zusammen und uns fiel auf, dass Snap! keinen lila Baustein : "define: process vertex" vorliegen hatte. Zahlreiche Versuche den anfangsbaustein durch verschiedene Mittel nachzubauen, scheiterten leider. Unter anderem versuchten wir den Baustein im ganzen mittels "make a block" eigenständig zu erstellen, aber auch den eingesetzten Baustein zu errichten. Doch da kein leerer Startbaustein zu finden war und auch Herr Buhl uns nicht weiterhelfen konnte, entschieden wir uns schließlich für die Ausführung mit dem gewöhnlich Startbaustein, welcher an die Fahne gekoppelt ist. 
+Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereiteten Bausteinen zusammen und uns fiel auf, dass Snap! keinen lila Baustein: "define: process vertex" vorliegen hatte. Zahlreiche Versuche den anfangsbaustein durch verschiedene Mittel nachzubauen, scheiterten leider. Unter anderem versuchten wir den Baustein im ganzen mittels "make a block" eigenständig zu erstellen, aber auch den eingesetzten Baustein zu errichten. Doch da kein leerer Startbaustein zu finden war und auch Herr Buhl uns nicht weiterhelfen konnte, entschieden wir uns schließlich für die Ausführung mit dem gewöhnlich Startbaustein, welcher an die Fahne gekoppelt ist. 
 
 Der nicht aufzufindende Startbaustein:
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/define%20process%20vertex.png?raw=true "Variablen")
