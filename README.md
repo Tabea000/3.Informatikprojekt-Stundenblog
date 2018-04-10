@@ -86,7 +86,16 @@ Da heute leider Tabea fehlte, musste ich alleine weiter schauen, wie wir unser Z
 
 Neben der offiziellen Seite von Scratch (Vorgänger von snap), welche eine Erläuterung für  <a href="https://scratch-dach.info/wiki/3D in Scratch">3D in Scratch</a> anbietet und bei der öffentliche, abgeschlossene Projekte verlinkt sind, wie dieses <a href="https://scratch.mit.edu/projects/47766/#editor">Beispiel</a>, schaute ich mir auch die englischsprachige Version an, welche verständlicher und weniger theoritisch, als die deutsche version ist, an. Für "<a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">How to Make a Three-Dimensional Project</a>" entschied ich mich schließlich .
 
-Somit begann ich im Anschluss mit dem erstellen der geforderten Variablen und fügte sie so zu den fertigen Bausteinen hinzu. Dieselben nutzte ich im Anschluss, um die kurzen Untereinheiten für Transformation (scale, translation und rotation (roll pitch, yaw)) und Projektion zu erstellen und somit eine Überschreibung von den zweidimensionalen daten zu dreidimensionalen zu ermöglichen. Außerdem vereinte ich funktionelle Bauseingruppen über die Funktion "make a block" zu Bausteinen, damit deren Nutzung unkomplizerter wird. Zuletzt ließ ich für die kommende Stunde meine Ergebnisse zunächst gespeichert und sortiert liegen. Für die nächste Stunde nehme ich mir vor, mit Tabea gemeinsam die genaueren Zusammenhänge zwischen den Bausteinen , Blöcken und deren Funktionen zu erschließen und die letzten Glieder des Gsamtblockes zu programmieren.
+Somit begann ich im Anschluss mit dem Erstellen der geforderten Variablen und fügte sie so zu den fertigen Bausteinen hinzu. 
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Variablen.png?raw=true "Variablen")
+
+
+Dieselben nutzte ich im Anschluss, um die kurzen Untereinheiten für Transformation (scale, translation und rotation (roll pitch, yaw)) und Projektion zu erstellen und somit eine Überschreibung von den zweidimensionalen daten zu dreidimensionalen zu ermöglichen. Außerdem vereinte ich funktionelle Bauseingruppen über die Funktion "make a block" zu Bausteinen, damit deren Nutzung unkomplizerter wird.
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Transformation.png?raw=true "Transformation")
+
+Zuletzt ließ ich für die kommende Stunde meine Ergebnisse zunächst gespeichert und sortiert liegen. Für die nächste Stunde nehme ich mir vor, mit Tabea gemeinsam die genaueren Zusammenhänge zwischen den Bausteinen, Blöcken und deren Funktionen zu erschließen und die letzten Glieder des Gsamtblockes zu programmieren.
  
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
@@ -100,7 +109,9 @@ Dabei stießen wir auf verschiedene Spiele, die vielschichtiger sind als die, di
 ">diesem</a> Video. Beispiele dafür sind zwar nicht so reichlich, doch einfache Figuren wie Würfel, Häuser und Pyramiden würden wir notfalls versuchen selbt zu erarbeiten.
 
 Zuletzt besprachen wir mit Herrn Buhl, ob der Anspruch dieses Zieles angemessen für die abschließende Ersatzleistung sei. Da er uns dies 
-zutraute und dem Projekt seinen Zuspeuch gab, nahmen wir uns für die nächsten Stunden die Arbeit an dreidimensionalen Effekten vor.
+zutraute und dem Projekt seinen Zuspruch gab, nahmen wir uns für die nächsten Stunden die Arbeit an dreidimensionalen Effekten vor.
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Beispiel.png?raw=true "Transformation")
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
