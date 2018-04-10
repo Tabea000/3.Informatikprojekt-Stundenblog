@@ -75,12 +75,16 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 1.3. 1
 
-In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale werte in dreidimensionale umschreiben. 
+In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
+
+Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die 
 
 
-- size Block
-- Versuch Bewegung auf y achse
-- stamp 3 D
+- size Block rechts
+- stamp 3 D links https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png
+
+![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "Variablen")
+
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
