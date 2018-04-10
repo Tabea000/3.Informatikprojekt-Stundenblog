@@ -25,13 +25,13 @@
 Das sind die veröffentlichten Snap Projekte:
 
 
-# Vorstellung der 3D Effekte:
+### Vorstellung der 3D Effekte:
 https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte
 
-# Pyramiden-Effekt: 
+### Pyramiden-Effekt: 
 https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt
 
-# Haus-Effekt: 
+### Haus-Effekt: 
 https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Haus-Effekt
 
 
