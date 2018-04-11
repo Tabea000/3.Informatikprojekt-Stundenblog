@@ -87,6 +87,11 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 2
 
+Heute wollten mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
+
+Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jeoch nicht.
+
+
 - stamp 3 D mit verschiedenen geometrischen Formen
 - Versuch Bewegung auf y-Achse
 - Schießen
@@ -98,9 +103,9 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 1.3.2018
 
-In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
+In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben werdenwürden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
 
-Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot). Ein stärkerer Effekt wird durch den zusätzlichen Block erzeugt (Mitte auf dem Screenshot), der den sprite stets auf die Maus ausrichtet:
+Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine Einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot). Ein stärkerer Effekt wird durch den zusätzlichen Block erzeugt (Mitte auf dem Screenshot), der den sprite stets auf die Maus ausrichtet:
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "3D Effekt-Blöcke")
 
