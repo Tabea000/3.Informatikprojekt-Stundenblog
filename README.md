@@ -164,8 +164,11 @@ Am heutigen Donnerstag besprachen wir das weitere Vorgehen. Wir sahen, dass in d
 Grundlage für das überschreiben von zweidimensionalen zu "dreidimensionalen" Werten im zweidimensionalen Programm Snap! beruht auf den Trigeomentischen Regeln, welche die Beziehungen von Sinus, Cosinus, und Tangens, also Winkeln und Längen von Geraden zueinander, beschreiben:
 
 sin(A1 + A2) = sin(A1) * cos(A2) + sin(A2) * cos(A1)
+
 cos(A1 + A2) = cos(A1) * cos(A2) - sin(A1) * sin(A2)
+
 sin(A1 - A2) = sin(A1) * cos(A2) - sin(A2) * cos(A1)
+
 cos(A1 - A2) = cos(A1) * cos(A2) + sin(A1) * sin(A2)
 
 Dadurch ist es möglich durch festgelegte Zusammenhänge die zwidimensionalen Werte so zu steuern, dass ein dreidimensionales Bild erscheint. Die Nutzung von "new x/y/z" verursacht eine Umrechnung von drei Koordinatenwerten zu der Projektion von den zweidimensionalen "old x/y" auf der stage. 
