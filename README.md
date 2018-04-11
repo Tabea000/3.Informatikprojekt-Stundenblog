@@ -91,14 +91,13 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 2
 
-Heute wollten mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
+Heute wollten mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Dabei verwendeten wir verschiedenste geometrische Formen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um zusätzlich durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
 
-Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jeoch nicht.
+Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jedoch nicht. Darin erkannten wir unser nächstes Etappenziel, eine Bewegung, die einem "Sprung in die Höhe gleicht.   
 
 
-- stamp 3 D mit verschiedenen geometrischen Formen
-- Versuch Bewegung auf y-Achse
-- Schießen
+- Versuch Bewegung auf y-Achse 
+- Schießen  https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/8.3..png
 - Zeichenversuche
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
