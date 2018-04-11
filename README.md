@@ -78,10 +78,14 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 ### <a name="sieben"></a>Siebte Informatikstunde am 8.3.2018 1
 
 - Falsche Umsetzung des vorherigen Projektes
--> Besprechen der Konsequenzen für betroffene Gruppen  
-- Pyramideneffekt
-- andere unsichtbar, dann auf einen Sprite vereint
-- Plan Hausbau -> verwerfen? 
+-> Besprechen der Konsequenzen für betroffene Gruppen
+- Plan Hausbau -> verwerfen?
+
+- Pyramideneffekt 
+
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.3..png?raw=true "Scratch")</a>
+
+- andere unsichtbar, dann auf einen Sprite vereint 
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/Costumes1.png?raw=true "Pyramide")
 
@@ -97,17 +101,17 @@ Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größen
 
 Wir wählten hierfür zwei Tasten der Tastatur aus, welche noch nicht verwendet waren und setzten sie als Auslöser für eine Bewegung auf der y-Achse ein:
 
-https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/y-Achsenbewegung.png
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/y-Achsenbewegung.png?raw=true "Pyramide")
 
 Daraufhin wollten wir einen "schieß/Flug-Effekt" einbauen. Dafür nutzten wir die den glide-Baustein und die Position der Maus, als Ziel. Zwar erwarteten wir, dass alle stamp-Lagen sich auch den Punkt zubewegen würden, doch nur die oberste/unterste Lage des sprites bewegte sich.Wenn sie nun an ihrem Ziel ankommt, verschwindet sie und gliedert sich wieder in den Turm aus Stempel-Lagen ein. Dies ist der Block dazu:
 
-https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen.png
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen.png?raw=true "Pyramide")
 
 Außerdem erkannten wir in dieser Stunde die Möglichkeit, dreidimensional zu zeichen. Zunächst versuchten wir es durch das Einfügen einer "pen down-> set pen colour to x"- Bausteinkombination innerhalb des size-Blockes. doch da dies nicht funktionierte, setzten wir diese Bausteine in den Schie?-Block ein. Hierbei entstand jedoch das Problem, dass man erneut nur zweidimensional und nur von dem stam-Haufen ausgehend Linien zeichnen konnte. Da auch ein gewöhnlicher Zeichenblock nicht funktionierte und somit der zuvor beschriebene Versuch am erfolgreichsten war, zeigen wir hier einmal den Block:
 
-https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen%2BZeichnen.png
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen%2BZeichnen.png?raw=true "Pyramide")
 
-Letztendlich haben wir in dieser Doppelstunde nicht wirklich das erreicht war wir uns vorgenommen haben, doch wir haben herausgefunden, dass ein solches Programmieren um ein einiges komplizierter ist, als wir angenommen haben und womöglich unsere Fähigkeiten übersteigt. Vielleicht müssen wir uns sogar von der Idee ein Haus zu programmieren, verabschieden, da hierfür eindeutig ein komplex funktionierendes dreidimensionales System notwendig ist.
+Letztendlich haben wir in dieser Doppelstunde nicht wirklich das erreicht war wir uns vorgenommen haben, doch wir haben herausgefunden, dass ein solches Programmieren um ein einiges komplizierter ist, als wir angenommen haben und womöglich unsere Fähigkeiten übersteigt. Vielleicht müssen wir uns sogar von der Idee ein Haus zu programmieren, verabschieden, da hierfür eindeutig ein komplex funktionierendes dreidimensionales System notwendig ist, welches uns nicht vorliegt. Darüber werden wir uns aber nächste stunde erstmal ein paar mehr Gedanken machen.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
