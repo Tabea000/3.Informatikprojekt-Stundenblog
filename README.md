@@ -38,7 +38,7 @@ https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&Proje
 
 
 
-### <a name="neun"></a>Neunte Informatikstunde am 23.3. 2
+### <a name="neun"></a>Neunte Informatikstunde am 23.3.2018 2
 
 Häuser bauen (schiefes Dach -> Mittelpunkt) versch. Formen und Größen
 Sortieren unseres Snap Programms
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/maste
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
-### <a name="acht"></a>Achte Informatikstunde am 9.3. 2
+### <a name="acht"></a>Achte Informatikstunde am 9.3.2018 2
 
 Da uns noch einige Wochen bis zur Abrgabe des Projektes verbleiben, beschlossen wir gleich am Anfang der Stunde den heutigen Tag zunächst derm Stundenblog zu widmen. Da wir mit dem Führen dieses "Kurstagebuchs" bisher verschiedene Erfahrungen gemacht hatten, sahen wir es zu Beginn der nur zwei Monate langen Einheit als zeitsparender an, am Ende jeder Unterrichtsstunde nur kurze Notizen über unsere Fortschritte, Rückschläge und Pläne zu machen, anstatt sehr viel Zeit in das Schreiben von langen Texten zu stecken. So ließen wir diese Arbeit erstmal warten, um soviel wie möglich zu erreichen. Um einen Besseren Überblick am schluss über alle einzelnen Stundenergebnisse zu besitzen, speicherten wir als Abschluss jeder Stunde auf Snap die neuen Blöcke als Datein unter der Bezeichnung des jeweiligen Datums. Dieses Vorgehen wollen wir auch beim Speichern der Screenshots einführen, sodass immer das originale Ergebnis der Stunde zu sehen ist (<a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/tree/master/Bildverzeichnis">s.Bildverseichnis</a>).
 
@@ -68,7 +68,7 @@ _Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kur
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
-### <a name="sieben"></a>Siebte Informatikstunde am 8.3. 1
+### <a name="sieben"></a>Siebte Informatikstunde am 8.3.2018 1
 
 - Falsche Umsetzung des vorherigen Projektes
 -> Besprechen der Konsequenzen für betroffene Gruppen  
@@ -80,7 +80,7 @@ _Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kur
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
-### <a name="sechs"></a>Sechste Informatikstunde am 2.3. 2
+### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 2
 
 - stamp 3 D mit verschiedenen geometrischen Formen
 - Versuch Bewegung auf y-Achse
@@ -91,7 +91,7 @@ _Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kur
 
 
 
-### <a name="fünf"></a>Fünfte Informatikstunde am 1.3. 
+### <a name="fünf"></a>Fünfte Informatikstunde am 1.3.2018
 
 In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
 
