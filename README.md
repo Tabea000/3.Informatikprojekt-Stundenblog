@@ -52,7 +52,9 @@ Das veröffentlichte Projekt dieses haus Effektes ist über den verlinkten Scree
 
 Als dieser Erfolg errungen war, entwickelten wir noch verschiedene Häuser, welche wiederum auf verschiedenen Grundflächen aufbauten. Diese sind ebenfalls über das öffentliche Projekt (s. screenshot) abrufbar. Da somit beinahe unser Ziel vom 15.2. erreicht war und Fenster und Türen auf einer anderen Programmierart basiern und somit gänzlich neue Überlegungen erforden würden, schlossen wir zufrieden unser letztes Informatikprojekt ab.    
 
+Dies sind die wichtigsten Grundflächen, um ein Haus zu erbauen:
 
+![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/Costumes.png?raw=true "Hausgrundsteine")
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
@@ -80,6 +82,8 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 - Pyramideneffekt
 - andere unsichtbar, dann auf einen Sprite vereint
 - Plan Hausbau -> verwerfen? 
+
+![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/Costumes1.png?raw=true "Pyramide")
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
