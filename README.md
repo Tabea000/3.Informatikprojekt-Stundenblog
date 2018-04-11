@@ -40,15 +40,15 @@ https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&Proje
 
 ### <a name="neun"></a>Neunte Informatikstunde am 23.3.2018 2
 
-Leider ist in den vergangenen Wochen immer wieder der Informatikunterricht ausgefollen, was zur Folge hatte, dass wir, wider unserer Pläne nicht weiter an unserem Projekt arbeiten konnten. Somit standen wir heute vor der letzten Möglichkeit weiter an unserem Projekt zu arbeiten. Jedoch fand dies unter der Vorraussetzung statt, dass Herr Buhl nicht anwesend war, er uns jedoch den Raum zur Verfügung gestellt hatte. So standen wir vor der Frage, womit wir uns in den kommenden Stunden beschäftigen konnten. Wir beschlossen schließlich nichts Neues mehr anzufangen, da uns dafür die gemeinsame Zeit fehen würde, obwohl wir bis zum 11.4. Zeit haben würden, uns weiter mit dem Projekt zu befassen, bevor wir es abgeben müssen. Uns kam ein weiteres Mal wieder in den Sinn, mit welcher Anfangsidee wir an das Projekt gegangen sind. Der Bau eines Hauses. 
+Leider ist in den vergangenen Wochen immer wieder der Informatikunterricht ausgefollen, was zur Folge hatte, dass wir, wider unserer Pläne nicht weiter an unserem Projekt arbeiten konnten. Somit standen wir heute vor der letzten Möglichkeit weiter an unserem Projekt zu arbeiten. Jedoch fand dies unter der Vorraussetzung statt, dass Herr Buhl nicht anwesend war, er uns jedoch den Raum zur Verfügung gestellt hatte. So standen wir vor der Frage, womit wir uns in den kommenden Stunden beschäftigen konnten. Wir beschlossen schließlich nichts Neues mehr anzufangen, da uns dafür die gemeinsame Zeit fehen würde, obwohl wir bis zum 11.4. Zeit haben würden, uns weiter mit dem Projekt zu befassen, bevor wir es abgeben müssen. Uns kam ein weiteres Mal wieder in den Sinn, mit welcher Anfangsidee wir an das Projekt gegangen sind. Der Bau eines Hauses.
 
-Da jedoch dafür, wie bereits erwähnt, sich uns eigentlich die Möglichkeiten verschlossen, auf die wir aufbauen wollten, mussten wir uns etwas anderes überlegen. Zunächst wollten wir swei geometrische Formen übereinander legen. Die Bestandteile dafür wären zum einen der ursprüngliche stamp-Effekt, welcher die vier Wände bilden würde, und zum anderen der Pyramiden Effekt, der das Dach erzeugen würde. Doch da wir uns noch nicht mit Kopplungsbausteinen auf Snap! beschäftigt hatten und ir herausfanden, dass zwei so komplexe Blöcke das recht simple Programm überfordern, verwarfen wir diesen Einfall sogleich wieder. Schließlich vereinten wir beide Effekte in einen Block. Auf eine lange stanmp-Phase folgt nun die Pyramiden-Effekt-Phase. Dabei mussten wir den Block so lang wie möglich gestalten, da ansonsten bei zu großen Figuren (kontrolliert durch den Size-Effekt) ein "Loch" im Dach entsteht und die Wände sehr niedrig werden. Dies ist zwar noch immer so, ist jedoch damit begründet, dass ansonsten die Ausführung zu sehr verlangsamt wird und hakt. 
+Da jedoch dafür, wie bereits erwähnt, sich uns eigentlich die (Zeichen-)Möglichkeiten verschlossen, auf die wir aufbauen wollten, mussten wir uns etwas anderes überlegen. Zunächst wollten wir zwei geometrische Formen übereinander legen. Die Bestandteile dafür wären zum einen der ursprüngliche stamp-Effekt, welcher die vier Wände bilden würde, und zum anderen der Pyramiden Effekt, der das Dach erzeugen würde. Doch da wir uns noch nicht mit Kopplungsbausteinen auf Snap! beschäftigt hatten und ir herausfanden, dass zwei so komplexe Blöcke das recht simple Programm überfordern, verwarfen wir diesen Einfall sogleich wieder. Schließlich vereinten wir beide Effekte in einen Block. Auf eine lange stanmp-Phase folgt nun die Pyramiden-Effekt-Phase. Dabei mussten wir den Block so lang wie möglich gestalten, da ansonsten bei zu großen Figuren (kontrolliert durch den Size-Effekt) ein "Loch" im Dach entsteht und die Wände sehr niedrig werden. Dies ist zwar noch immer so, ist jedoch damit begründet, dass ansonsten die Ausführung zu sehr verlangsamt wird und hakt. 
 
 Das erste Haus litt jedoch unter der Erscheinung eines windschiefen Daches. Nach einigen Überlegungen fanden wir heraus, dass neben der Funktion, mit der wir die Grundfäche des hauses gezeichnet hatten, es auch möglich ist, den Mittelpunkt festzulegen, auf den das Dach letztendlich bei der Projektion zusammenschrumpft. Somit war dieses Problem auch gelöst und unser erstes haus vollständig und dreidimensional beweglich gebaut.
 
 Das veröffentlichte Projekt dieses haus Effektes ist über den verlinkten Screenshot abrufbar. Dies ist unser erstes Haus auf der Basis eines Rechteckes:
 
-<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Haus-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.3..png?raw=true "Scratch")</a>
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Haus-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.3..png?raw=true "Haus-Effekt")</a>
 
 Als dieser Erfolg errungen war, entwickelten wir noch verschiedene Häuser, welche wiederum auf verschiedenen Grundflächen aufbauten. Diese sind ebenfalls über das öffentliche Projekt (s. screenshot) abrufbar. Da somit beinahe unser Ziel vom 15.2. erreicht war und Fenster und Türen auf einer anderen Programmierart basiern und somit gänzlich neue Überlegungen erforden würden, schlossen wir zufrieden unser letztes Informatikprojekt ab.    
 
@@ -81,19 +81,19 @@ Die heute anstehenden 45 Minuten hatte wir besonders intensiv nuten wollen, da i
 
 Da wir eigentlich diese Zeit für das Vorgehen mit dem Hausbau nutzen wollten und wir für diese Stunde noch ein ergebnis vorliegen haben wollten, beschlossen wir, Ideen zum Hausbau zunächst weiter nach hinten zu verschieben. 
 
-somit schauten wir uns die Möglichkeiten an, die uns mit den vorliegenden Blöcken noch verblieben waren und wir noch nicht ausprobiert hatten.
+Somit schauten wir uns die Möglichkeiten an, die uns mit den vorliegenden Blöcken noch verblieben waren und wir noch nicht ausprobiert hatten. Wir wendeten uns dabei dem stamp-Block zu. Umso länger dieser ist, desto höher der Turm, dabei mussten wir zu unserer Ernüchterung feststellen, dass ein Einfügen von repeat-Schleifen aus unerfindlichen Gründen nicht funktioniert. Als wir nun unter >change y by 1< noch einen >change size by -1< anfügten und dies oft wiederholten, entstand der Pyramideneffekt.
 
+Dieser verlinkte Screenshot ermöglicht den Zugriff auf das öffentliche Snap!-Projekt:
 
-- Pyramideneffekt 
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.3..png?raw=true "Pyramiden-Effekt")</a>
 
-<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.3..png?raw=true "Scratch")</a>
-
-- andere unsichtbar, dann auf einen Sprite vereint 
+Wir begannen mit verschiedenen Formen der costumes zu experimentieren, die wir mittels "paint a costume" schufen. wir vereinten die auf einen sprite, welcher oben verlinkt ist. Dies sind die genutzten costumes: 
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/Costumes1.png?raw=true "Pyramide")
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 
