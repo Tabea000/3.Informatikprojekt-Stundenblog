@@ -38,7 +38,7 @@ https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&Proje
 
 
 
-### <a name="neun"></a>Neunte Informatikstunde am 23.3.2018 2
+### <a name="neun"></a>Neunte Informatikstunde am 23.3.2018 
 
 Leider ist in den vergangenen Wochen immer wieder der Informatikunterricht ausgefallen, was zur Folge hatte, dass wir, wider unserer Pläne, nicht weiter an unserem Projekt arbeiten konnten. Somit standen wir heute vor der letzten Möglichkeit unser Projekt zu beenden. Jedoch fand dies unter der Vorraussetzung statt, dass Herr Buhl nicht anwesend war. Er hatte uns jedoch den Computerraum zur Verfügung gestellt. So standen wir vor der Frage, womit wir uns in den kommenden zwei Stunden beschäftigen konnten. Wir beschlossen schließlich nichts Neues mehr anzufangen, da uns dafür die gemeinsame Zeit fehlen würde, obwohl wir bis zum 11.4. Zeit haben würden, uns weiter mit dem Projekt zu befassen, bevor wir es abgeben müssen. Uns kam ein weiteres Mal wieder in den Sinn, mit welcher Anfangsidee wir an das Projekt gegangen sind. Der Bau eines Hauses.
 
@@ -52,7 +52,7 @@ Das veröffentlichte Projekt dieses Haus-Effektes ist über den verlinkten Scree
 
 Als dieser Erfolg errungen war, entwickelten wir noch verschiedene Häuser, welche wiederum auf verschiedenen Grundflächen aufbauten. Diese sind ebenfalls über das öffentliche Projekt (s. Screenshot) abrufbar. 
 
-Da somit beinahe unser Ziel vom 15.2. erreicht war und Fenster und Türen auf einer anderen Programmierart basiern und somit gänzlich neue Überlegungen erforden würden, schlossen wir zufrieden unser letztes Informatikprojekt ab.    
+Da somit beinahe unser Ziel vom 15.2. erreicht war und Fenster und Türen auf einer anderen Programmierart basieren und somit gänzlich neue Überlegungen erforden würden, schlossen wir zufrieden unser letztes Informatikprojekt ab.    
 
 Dies sind die wichtigsten Grundflächen, um ein Haus zu erbauen:
 
@@ -62,13 +62,13 @@ Dies sind die wichtigsten Grundflächen, um ein Haus zu erbauen:
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
-### <a name="acht"></a>Achte Informatikstunde am 9.3.2018 2
+### <a name="acht"></a>Achte Informatikstunde am 9.3.2018 
 
-Da uns noch einige Wochen bis zur Abrgabe des Projektes verbleiben, beschlossen wir gleich am Anfang der Stunde den heutigen Tag zunächst derm Stundenblog zu widmen. Da wir mit dem Führen dieses "Kurstagebuchs" bisher verschiedene Erfahrungen gemacht hatten, sahen wir es zu Beginn der nur zwei Monate langen Einheit als zeitsparender an, am Ende jeder Unterrichtsstunde nur kurze Notizen über unsere Fortschritte, Rückschläge und Pläne zu machen, anstatt sehr viel Zeit in das Schreiben von langen Texten zu stecken. So ließen wir diese Arbeit erstmal warten, um soviel wie möglich zu erreichen. Um einen Besseren Überblick am schluss über alle einzelnen Stundenergebnisse zu besitzen, speicherten wir als Abschluss jeder Stunde auf Snap die neuen Blöcke als Datein unter der Bezeichnung des jeweiligen Datums. Dieses Vorgehen wollen wir auch beim Speichern der Screenshots einführen, sodass immer das originale Ergebnis der Stunde zu sehen ist (<a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/tree/master/Bildverzeichnis">s.Bildverseichnis</a>).
+Da uns noch einige Wochen bis zur Abrgabe des Projektes verbleiben, beschlossen wir gleich am Anfang der Stunde den heutigen Tag zunächst dem Stundenblog zu widmen. Da wir mit dem Führen dieses "Kurstagebuchs" bisher verschiedene Erfahrungen gemacht hatten, sahen wir es zu Beginn der nur zwei Monate langen Einheit als zeitsparender an, am Ende jeder Unterrichtsstunde nur kurze Notizen über unsere Fortschritte, Rückschläge und Pläne zu machen, anstatt sehr viel Zeit in das Schreiben von langen Texten zu stecken. So ließen wir diese Arbeit erstmal liegen, um soviel wie möglich zu erreichen. Um einen besseren Überblick am Schluss über alle einzelnen Stundenergebnisse zu besitzen, speicherten wir als Abschluss jeder Stunde auf Snap die neuen Blöcke als Datein unter der Bezeichnung des jeweiligen Datums. Dieses Vorgehen wollen wir auch beim Speichern der Screenshots einführen, sodass immer das originale Ergebnis der Stunde zu sehen ist (<a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/tree/master/Bildverzeichnis">s.Bildverseichnis</a>). Kleinigkeiten und Bilder für die Projektpräsentation werden wir weiterhin unter entsprechenden Namen speichern.
 
 Somit begannen wir gemeinsam mit dem Verfassen unserer Texte, was immer ein wenig komplizierter ist, als das Schreiben für sich allein und so auch mehr Zeit beanspruchte. Zudem brachten wir noch etwas mehr Ordnung in unsere Snap!-Projekte und veröffentlichten zum einen die drei verschiedenen Blöcke für dreidimensionale Effekte (<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">hier</a>) und den Pyramiden-Effekt (<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt">hier</a>) 
 
-Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, doch dies tun wir guten Gewissens, da uns noch sechs Unterrichtsstunden bereitstehen. 
+Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zuzuwenden, doch dies tun wir guten Gewissens, da uns noch sechs Unterrichtsstunden bereitstehen. 
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/kursiv.png?raw=true "kursiv")
 
@@ -79,20 +79,21 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 8.3.2018 
 
-Die heute anstehenden 45 Minuten hatte wir besonders intensiv nuten wollen, da in der letzten Stunde kaum Fortschritte zu verzeichnen gewesen waren. Doch zunächst hatte Herr Buhl etwas mit der Klasse zu besprechen gehabt. das zurückliegende Informatikprojekt wurde von dem überwiegenden Teil der schülergruppen falsch ausgeführt. Eine Trennung zwischen dem Stunden und dem Projektpräsentations-Blog lag nur selten vor. Um nun zu klären, wie die Note beeinflusst werden sollte und um klarzustellen, dass das dritte Projekt richtig ausgeführt wird, nutzten wir etwas mehr als die Hälfte der Stunde, um zu einer Einigung zu gelangen.
+Die heute anstehenden 45 Minuten hatte wir besonders intensiv nuten wollen, da in der letzten Stunde kaum Fortschritte zu verzeichnen gewesen waren. Doch zunächst hatte Herr Buhl etwas mit der Klasse zu besprechen gehabt. Das zurückliegende Informatikprojekt wurde von dem überwiegenden Teil der Schülergruppen falsch ausgeführt. Eine Trennung zwischen dem Stunden- und dem Projektpräsentations-Blog lag nur selten vor. Um nun zu klären, wie die Note beeinflusst werden sollte und um klarzustellen, dass das dritte Projekt richtig ausgeführt wird, nutzten wir etwas mehr als die Hälfte der Stunde, um zu einer Einigung zu gelangen.
 
-Da wir eigentlich diese Zeit für das Vorgehen mit dem Hausbau nutzen wollten und wir für diese Stunde noch ein ergebnis vorliegen haben wollten, beschlossen wir, Ideen zum Hausbau zunächst weiter nach hinten zu verschieben. 
+Da wir eigentlich diese Zeit für das Vorgehen mit dem Hausbau nutzen wollten und wir für diese Stunde noch ein Ergebnis erreichen wollten, beschlossen wir, Ideen zum Hausbau zunächst weiter nach hinten zu verschieben. 
 
-Somit schauten wir uns die Möglichkeiten an, die uns mit den vorliegenden Blöcken noch verblieben waren und wir noch nicht ausprobiert hatten. Wir wendeten uns dabei dem stamp-Block zu. Umso länger dieser ist, desto höher der Turm, dabei mussten wir zu unserer Ernüchterung feststellen, dass ein Einfügen von repeat-Schleifen aus unerfindlichen Gründen nicht funktioniert. Als wir nun unter >change y by 1< noch einen >change size by -1< anfügten und dies oft wiederholten, entstand der Pyramideneffekt.
+Somit schauten wir uns die Möglichkeiten an, die uns mit den vorliegenden Blöcken noch verblieben waren und wir noch nicht ausprobiert hatten. Wir wendeten uns dabei dem stamp-Block zu. Umso länger dieser ist, desto höher wird der Turm. Dabei mussten wir zu unserer Ernüchterung feststellen, dass ein Einfügen von repeat-Schleifen aus unerfindlichen Gründen nicht funktioniert. Als wir nun aber unter "change y by 1" noch einen "change size by -1" anfügten und dies oft wiederholten, entstand der Pyramideneffekt.
 
 Dieser verlinkte Screenshot ermöglicht den Zugriff auf das öffentliche Snap!-Projekt:
 
 <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.3..png?raw=true "Pyramiden-Effekt")</a>
 
-Wir begannen mit verschiedenen Formen der costumes zu experimentieren, die wir mittels "paint a costume" schufen. wir vereinten die auf einen sprite, welcher oben verlinkt ist. Dies sind die genutzten costumes: 
+Wir begannen mit verschiedenen Formen der costumes zu experimentieren, die wir mittels "paint a costume" schufen. Wir vereinten die auf einen sprite, welcher oben verlinkt ist. Dies sind die genutzten costumes: 
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/Costumes1.png?raw=true "Pyramide")
 
+Glücklich über diesen kurzfristigen Erfolg freuten wir uns auf die kommenden Stunden.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
@@ -100,23 +101,23 @@ Wir begannen mit verschiedenen Formen der costumes zu experimentieren, die wir m
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 
 
-Heute wollten mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Dabei verwendeten wir verschiedenste geometrische Formen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um zusätzlich durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
+Heute wollten wir mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Dabei verwendeten wir verschiedenste geometrische Formen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um zusätzlich durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
 
-Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jedoch nicht. Darin erkannten wir unser nächstes Etappenziel, eine Bewegung, die einem "Sprung" in die Höhe gleicht. Auf verschiedenen Wegen versuchten wir unser Glück, doch leider funktionierte keiner. Wahrscheinlich, da durch den size-Effekt, die y-Position beeinflusst wird. Unser vielversprechenster Weg war dieser: 
+Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jedoch nicht. Darin sahen wir unser nächstes Etappenziel, eine Bewegung, die einem "Sprung" in die Höhe gleicht. Auf verschiedenen Wegen versuchten wir unser Glück, doch leider funktionierte keiner. Wahrscheinlich liegt es darin, dass durch den size-Effekt die y-Position beeinflusst wird. Unser vielversprechenster Weg war dieser: 
 
 Wir wählten hierfür zwei Tasten der Tastatur aus, welche noch nicht verwendet waren und setzten sie als Auslöser für eine Bewegung auf der y-Achse ein:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/y-Achsenbewegung.png?raw=true "Pyramide")
 
-Daraufhin wollten wir einen "schieß/Flug-Effekt" einbauen. Dafür nutzten wir die den glide-Baustein und die Position der Maus, als Ziel. Zwar erwarteten wir, dass alle stamp-Lagen sich auch den Punkt zubewegen würden, doch nur die oberste/unterste Lage des sprites bewegte sich.Wenn sie nun an ihrem Ziel ankommt, verschwindet sie und gliedert sich wieder in den Turm aus Stempel-Lagen ein. Dies ist der Block dazu:
+Daraufhin wollten wir einen "Schieß/Flug-Effekt" einbauen. Dafür nutzten wir die den glide-Baustein und die Position der Maus als Ziel. Zwar erwarteten wir, dass alle stamp-Lagen sich auch den Punkt zubewegen würden, doch nur die oberste/unterste Lage des sprites bewegte sich. Wenn sie nun an ihrem Ziel ankommt, verschwindet sie und gliedert sich wieder in den Turm aus Stempel-Lagen ein. Dies ist der Block dazu:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen.png?raw=true "Pyramide")
 
-Außerdem erkannten wir in dieser Stunde die Möglichkeit, dreidimensional zu zeichen. Zunächst versuchten wir es durch das Einfügen einer "pen down-> set pen colour to x"- Bausteinkombination innerhalb des size-Blockes. doch da dies nicht funktionierte, setzten wir diese Bausteine in den Schie?-Block ein. Hierbei entstand jedoch das Problem, dass man erneut nur zweidimensional und nur von dem stam-Haufen ausgehend Linien zeichnen konnte. Da auch ein gewöhnlicher Zeichenblock nicht funktionierte und somit der zuvor beschriebene Versuch am erfolgreichsten war, zeigen wir hier einmal den Block:
+Außerdem erhofften wir in dieser Stunde, dreidimensional zu zeichen. Zunächst versuchten wir es durch das Einfügen einer "pen down-> set pen colour to x"- Bausteinkombination innerhalb des size-Blockes. Doch da dies nicht funktionierte, setzten wir diese Bausteine in den Schieß-Block ein. Hierbei entstand jedoch das Problem, dass man erneut nur zweidimensional und nur von dem stamp-Haufen ausgehend Linien zeichnen konnte. Da auch ein gewöhnlicher Zeichenblock nicht funktionierte und somit der zuvor beschriebene Versuch am erfolgreichsten war, zeigen wir hier einmal den Block:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen%2BZeichnen.png?raw=true "Pyramide")
 
-Letztendlich haben wir in dieser Doppelstunde nicht wirklich das erreicht war wir uns vorgenommen haben, doch wir haben herausgefunden, dass ein solches Programmieren um ein einiges komplizierter ist, als wir angenommen haben und womöglich unsere Fähigkeiten übersteigt. Vielleicht müssen wir uns sogar von der Idee ein Haus zu programmieren, verabschieden, da hierfür eindeutig ein komplex funktionierendes dreidimensionales System notwendig ist, welches uns nicht vorliegt. Darüber werden wir uns aber nächste stunde erstmal ein paar mehr Gedanken machen.
+Letztendlich haben wir in dieser Doppelstunde nicht wirklich das erreicht, was wir uns vorgenommen hatten, doch wir haben herausgefunden, dass ein solches Programmieren um ein einiges komplizierter ist, als wir angenommen hatten und womöglich unsere Fähigkeiten übersteigt. Vielleicht müssen wir uns sogar von der Idee ein Haus zu programmieren, verabschieden, da hierfür eindeutig ein komplex funktionierendes dreidimensionales System notwendig ist, als jene, die uns vorliegen. Darüber werden wir uns aber nächste Stunde erstmal ein paar mehr Gedanken machen.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
