@@ -59,11 +59,7 @@ Somit begannen wir gemeinsam mit dem Verfassen unserer Texte, was immer ein weni
 
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/kursiv.png?raw=true "kursiv")
-
-
-
-_Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kursive Schrift im Programm Github gibt. Leider ist diese nach unseren Erkenntnissen nur im raw Modus zu erkennen, weshalb es sich hierbei auch um einen eingefügten Screenshot handelt. :) 
-
+ 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
