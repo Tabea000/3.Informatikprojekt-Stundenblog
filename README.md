@@ -155,7 +155,7 @@ Vorgaben und Erläuterungen der Scratch-Seite (verlinkt über diesen Screenshot)
 
 Eigene Umsetzung auf Snap:
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.2..png?raw=true "Variablen")
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.2..png?raw=true "transformation & projektion")
 
 
 Zuletzt ließ ich für die kommende Stunde meine Ergebnisse zunächst gespeichert und sortiert liegen. Für die nächste Stunde nehme ich mir vor, mit Tabea gemeinsam die genaueren Zusammenhänge zwischen den Bausteinen, Blöcken und deren Funktionen zu erschließen und die letzten Glieder des Gesamtblockes zu programmieren.
@@ -174,7 +174,7 @@ Dabei stießen wir auf verschiedene Spiele, die vielschichtiger sind als die, di
 Zuletzt besprachen wir mit Herrn Buhl, ob der Anspruch dieses Zieles angemessen für die abschließende Ersatzleistung sei. Da er uns dies 
 zutraute und dem Projekt seinen Zuspruch gab, nahmen wir uns für die nächsten Stunden die Arbeit an dreidimensionalen Effekten vor.
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Beispiel.png?raw=true "Transformation")
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Beispiel.png?raw=true "Beispiel")
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
