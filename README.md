@@ -75,11 +75,14 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 
 
 
-### <a name="sieben"></a>Siebte Informatikstunde am 8.3.2018 1
+### <a name="sieben"></a>Siebte Informatikstunde am 8.3.2018 
 
-- Falsche Umsetzung des vorherigen Projektes
--> Besprechen der Konsequenzen für betroffene Gruppen
-- Plan Hausbau -> verwerfen?
+Die heute anstehenden 45 Minuten hatte wir besonders intensiv nuten wollen, da in der letzten Stunde kaum Fortschritte zu verzeichnen gewesen waren. Doch zunächst hatte Herr Buhl etwas mit der Klasse zu besprechen gehabt. das zurückliegende Informatikprojekt wurde von dem überwiegenden Teil der schülergruppen falsch ausgeführt. Eine Trennung zwischen dem Stunden und dem Projektpräsentations-Blog lag nur selten vor. Um nun zu klären, wie die Note beeinflusst werden sollte und um klarzustellen, dass das dritte Projekt richtig ausgeführt wird, nutzten wir etwas mehr als die Hälfte der Stunde, um zu einer Einigung zu gelangen.
+
+Da wir eigentlich diese Zeit für das Vorgehen mit dem Hausbau nutzen wollten und wir für diese Stunde noch ein ergebnis vorliegen haben wollten, beschlossen wir, Ideen zum Hausbau zunächst weiter nach hinten zu verschieben. 
+
+somit schauten wir uns die Möglichkeiten an, die uns mit den vorliegenden Blöcken noch verblieben waren und wir noch nicht ausprobiert hatten.
+
 
 - Pyramideneffekt 
 
@@ -93,7 +96,7 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
-### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 2
+### <a name="sechs"></a>Sechste Informatikstunde am 2.3.2018 
 
 Heute wollten mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Dabei verwendeten wir verschiedenste geometrische Formen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um zusätzlich durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
 
@@ -129,8 +132,6 @@ Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://gi
 <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">Vorstellung der 3D Effekte</a>
 
 
-
-
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
@@ -155,6 +156,7 @@ So versuchten wir noch schnell alle betroffenen Bausteine mit dem "report"-Glied
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
+
 ### <a name="drei"></a>Dritte Informatikstunde am 22.2.2018 
 
 Am heutigen Donnerstag besprachen wir das weitere Vorgehen. Wir sahen, dass in der Scratch Seite drei gute Ideen für dreidimensionale Effekte vorlagen. Die Umsetzung der ersten Variante, die Juliane bereits in der letzten Stunde angefangen hatte, setzten wir für unser Projekt, nach gemeinsamen Besprechen der bereits vorliegenden Blockbestandteile, gemeinsam fort. 
@@ -171,11 +173,12 @@ Dadurch ist es möglich durch festgelegte Zusammenhänge die zwidimensionalen We
 Mithilfe der Anleitung schlossen wir den Bau der Teilblöcke des Gesamtblockes beinahe ab. Morgen ist die Nutzung unseres programmierten Programms das Tagesziel.  
 
 
-
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
+
 ### <a name="zwei"></a>Zweite Informatikstunde am 16.2.2018
+
 
 Da heute leider Tabea fehlte, musste ich alleine weiter schauen, wie wir unser Ziel für dieses Projekt umsetzen könnten. Dafür schaute ich  außerhalb von Youtube nach Anleitungen und Hilfestellungen für das Programmieren mit 3D Effekten. 
 
@@ -201,6 +204,7 @@ Zuletzt ließ ich für die kommende Stunde meine Ergebnisse zunächst gespeicher
  
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 
 ### <a name="eins"></a>Erste Informatikstunde am 15.2.2018
