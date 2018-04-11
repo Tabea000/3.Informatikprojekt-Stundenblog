@@ -93,12 +93,21 @@ Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, d
 
 Heute wollten mit den nun vorliegenden beiden Blöcken einige Sachen ausprobieren. Zunächst begannen wir, durch das Zeichnen verschiedener costumes den stamp-Effekt kennenzulernen. Dabei verwendeten wir verschiedenste geometrische Formen. Wir bauten somit verschiedene "Türme" und bewegten diese auf der x-Achse hin und her, um zusätzlich durch den size-Effekt eine Tiefe im Bild zu erzeugen. 
 
-Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jedoch nicht. Darin erkannten wir unser nächstes Etappenziel, eine Bewegung, die einem "Sprung in die Höhe gleicht.   
+Uns fiel dabei auf, dass auf der x-Achse eine Bewegung des sprites ohne Größenveränderung möglich ist, auf der y-Achse jedoch nicht. Darin erkannten wir unser nächstes Etappenziel, eine Bewegung, die einem "Sprung" in die Höhe gleicht. Auf verschiedenen Wegen versuchten wir unser Glück, doch leider funktionierte keiner. Wahrscheinlich, da durch den size-Effekt, die y-Position beeinflusst wird. Unser vielversprechenster Weg war dieser: 
 
+Wir wählten hierfür zwei Tasten der Tastatur aus, welche noch nicht verwendet waren und setzten sie als Auslöser für eine Bewegung auf der y-Achse ein:
 
-- Versuch Bewegung auf y-Achse 
-- Schießen  https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/8.3..png
-- Zeichenversuche
+https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/y-Achsenbewegung.png
+
+Daraufhin wollten wir einen "schieß/Flug-Effekt" einbauen. Dafür nutzten wir die den glide-Baustein und die Position der Maus, als Ziel. Zwar erwarteten wir, dass alle stamp-Lagen sich auch den Punkt zubewegen würden, doch nur die oberste/unterste Lage des sprites bewegte sich.Wenn sie nun an ihrem Ziel ankommt, verschwindet sie und gliedert sich wieder in den Turm aus Stempel-Lagen ein. Dies ist der Block dazu:
+
+https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen.png
+
+Außerdem erkannten wir in dieser Stunde die Möglichkeit, dreidimensional zu zeichen. Zunächst versuchten wir es durch das Einfügen einer "pen down-> set pen colour to x"- Bausteinkombination innerhalb des size-Blockes. doch da dies nicht funktionierte, setzten wir diese Bausteine in den Schie?-Block ein. Hierbei entstand jedoch das Problem, dass man erneut nur zweidimensional und nur von dem stam-Haufen ausgehend Linien zeichnen konnte. Da auch ein gewöhnlicher Zeichenblock nicht funktionierte und somit der zuvor beschriebene Versuch am erfolgreichsten war, zeigen wir hier einmal den Block:
+
+https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Schie%C3%9Fen%2BZeichnen.png
+
+Letztendlich haben wir in dieser Doppelstunde nicht wirklich das erreicht war wir uns vorgenommen haben, doch wir haben herausgefunden, dass ein solches Programmieren um ein einiges komplizierter ist, als wir angenommen haben und womöglich unsere Fähigkeiten übersteigt. Vielleicht müssen wir uns sogar von der Idee ein Haus zu programmieren, verabschieden, da hierfür eindeutig ein komplex funktionierendes dreidimensionales System notwendig ist.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
