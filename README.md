@@ -125,14 +125,14 @@ Letztendlich haben wir in dieser Doppelstunde nicht wirklich das erreicht, was w
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 1.3.2018
 
-In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben werdenwürden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
+In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Denn wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen. Leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale Daten umgeschrieben werden würden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
 
-Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine Einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot). Ein stärkerer Effekt wird durch den zusätzlichen Block erzeugt (Mitte auf dem Screenshot), der den sprite stets auf die Maus ausrichtet:
+Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine Einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum Einen einen Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert und zusätzlich bewegt (rechts auf dem Screenshot) und zum  einen Block, welcher durch Stapelung von Bildern des Sprites (stamps auf der y-Achse) einen dreidimensionalen Eindruck erschafft (links aufAnderen dem Screenshot). Ein stärkerer Effekt wird durch den zusätzlichen Block erzeugt (Mitte auf dem Screenshot), der den sprite stets auf die Maus ausrichtet:
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "3D Effekt-Blöcke")
 
 Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://github.com/Tabea000/3.Informatikprojekt-Projektpraesentation">Projektpräsentation</a> beschrieben und das Snap-Projekt ist über diesen Link veröffentlicht und abrufbar:
-<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">Vorstellung der 3D Effekte</a>
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">Vorstellung der 3D Effekte</a>.
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
@@ -142,7 +142,7 @@ Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://gi
 
 ### <a name="vier"></a>Vierte Informatikstunde am 23.2.2018 
 
-Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereiteten Bausteinen zusammen und uns fiel auf, dass Snap! keinen lila Baustein: "define: process vertex" vorliegen hatte. Zahlreiche Versuche den anfangsbaustein durch verschiedene Mittel nachzubauen, scheiterten leider. Unter anderem versuchten wir den Baustein im ganzen mittels "make a block" eigenständig zu erstellen, aber auch den eingesetzten Baustein zu errichten. Doch da kein leerer Startbaustein zu finden war und auch Herr Buhl uns nicht weiterhelfen konnte, entschieden wir uns schließlich für die Ausführung mit dem gewöhnlich Startbaustein, welcher an die Fahne gekoppelt ist. 
+Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereiteten Bausteinen zusammen und uns fiel auf, dass Snap! keinen lila Baustein: "define: process vertex" vorliegen hat. Zahlreiche Versuche den Anfangsbaustein durch verschiedene Mittel nachzubauen, scheiterten leider. Unter anderem versuchten wir, den Baustein im Ganzen mittels "make a block" eigenständig zu erstellen, aber auch den eingesetzten Baustein zu errichten. Doch da kein leerer Startbaustein zu finden war und auch Herr Buhl uns nicht weiterhelfen konnte, entschieden wir uns schließlich für die Ausführung mit dem gewöhnlich Startbaustein, welcher an die Fahne gekoppelt ist. 
 
 Der nicht aufzufindende Startbaustein:
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/define%20process%20vertex.png?raw=true "define: process vertex")
@@ -151,9 +151,9 @@ Unser abgeschlossener Block zum Erschaffen eines 3D-Effektes:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.2..png?raw=true "data representation")
 
-Als wir uns nun freuten, nach der aufwendigen "Bastelarbeit" endlich fertig zu sein, brach der Ablauf des Blockes immer ab. Dies wird durch ein rotes Aufleuchten angezeigt. Unser Baustein behinderte sich folglich selbst, da Bestandteile dem Rest widersprachen und somit die Ausführung gestoppt wird. Somit befassten wir uns den Rest der Stunden mit der Fehleranalyse und wurden schließlich auch fündig. Dafür nahmen wir zunächst den Block auseinander und testeten seine einzelnen Bestandteile. Dabei viel auf, dass die selbstkreierten Bausteine fehlerhaft sein mussten. Wir kontollierten sie und sahen, dass wir beim Zusammenführen von Bausteingruppen zu einelnen Bausteinen den abschließenden "report" - Bausteinen vergessen hatten. 
+Als wir uns nun freuten, nach der aufwendigen "Bastelarbeit" endlich fertig zu sein, brach der Ablauf des Blockes immer ab. Dies wird durch ein rotes Aufleuchten angezeigt. Unser Baustein behinderte sich folglich selbst, da Bestandteile dem Rest widersprachen und somit die Ausführung gestoppt wurde. Den rest der Stunden befassten wir uns mit der Fehleranalyse und wurden schließlich auch fündig. Dafür nahmen wir zunächst den Block auseinander und testeten seine einzelnen Bestandteile. Dabei viel auf, dass die selbstkreierten Bausteine fehlerhaft sein mussten. Wir kontollierten sie und sahen, dass wir beim Zusammenführen von Bausteingruppen zu einelnen Bausteinen den abschließenden report-Bausteinen vergessen hatten. 
 
-So versuchten wir noch schnell alle betroffenen Bausteine mit dem "report"-Glied abzuschließen. In der letzten Minuten schlossen wir damit ab, sodass wir zwar sehen konnten, dass der Block nicht mehr rotauflechtet, doch einen Test, der seine Funktion bestätigen würde, konnten wir nicht mehr durchführen.
+So versuchten wir noch schnell alle betroffenen Bausteine mit dem report-Glied abzuschließen. In der letzten Minuten schafften wir es, sodass zwar zu sehen war, dass der Block nicht mehr rotauflechtet, doch einen Test, der seine Funktion bestätigen würde, konnten wir nicht mehr durchführen.
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
