@@ -40,17 +40,30 @@ https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&Proje
 
 ### <a name="neun"></a>Neunte Informatikstunde am 23.3. 2
 
-Häuser bauen (schiefes dach -> Mittelpunkt) versch. Formen und Größen
+Häuser bauen (schiefes Dach -> Mittelpunkt) versch. Formen und Größen
 Sortieren unseres Snap Programms
+
+- Lehrerranking
+
+
+https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Costumes.png
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 ### <a name="acht"></a>Achte Informatikstunde am 9.3. 2
 
--schreiben im Stundenblog
-_herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
-- Lehrerranking
+Da uns noch einige Wochen bis zur Abrgabe des Projektes verbleiben, beschlossen wir gleich am Anfang der Stunde den heutigen Tag zunächst derm Stundenblog zu widmen. Da wir mit dem Führen dieses "Kurstagebuchs" bisher verschiedene Erfahrungen gemacht hatten, sahen wir es zu Beginn der nur zwei Monate langen Einheit als zeitsparender an, am Ende jeder Unterrichtsstunde nur kurze Notizen über unsere Fortschritte, Rückschläge und Pläne zu machen, anstatt sehr viel Zeit in das Schreiben von langen Texten zu stecken. So ließen wir diese Arbeit erstmal warten, um soviel wie möglich zu erreichen. Um einen Besseren Überblick am schluss über alle einzelnen Stundenergebnisse zu besitzen, speicherten wir als Abschluss jeder Stunde auf Snap die neuen Blöcke als Datein unter der Bezeichnung des jeweiligen Datums. Dieses Vorgehen wollen wir auch beim Speichern der Screenshots einführen, sodass immer das originale Ergebnis der Stunde zu sehen ist (<a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/tree/master/Bildverzeichnis">s.Bildverseichnis</a>).
+
+Somit begannen wir gemeinsam mit dem Verfassen unserer Texte, was immer ein wenig komplizierter ist, als das Schreiben für sich allein und so auch mehr Zeit beanspruchte. Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, doch dies tun wir guten Gewissens, da uns noch sechs Unterrichtsstunden bereitstehen. 
+
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/kursiv.png?raw=true "kursiv")
+
+
+
+_Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kursive Schrift im Programm Github gibt. Leider ist diese nach unseren Erkenntnissen nur im raw Modus zu erkennen, weshalb es sich hierbei auch um einen eingefühgten Screenshot handelt. :) 
+
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
@@ -61,6 +74,8 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 -> Besprechen der Konsequenzen für betroffene Gruppen  
 - Pyramideneffekt
 - andere unsichtbar, dann auf einen Sprite vereint
+- Plan Hausbau
+
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
@@ -68,11 +83,9 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 ### <a name="sechs"></a>Sechste Informatikstunde am 2.3. 2
 
 - stamp 3 D mit verschiedenen geometrischen Formen
-- Zeichenversuche
-- Schießen
-- Mausfokus
 - Versuch Bewegung auf y-Achse
-- Plan Hausbau
+- Schießen
+- Zeichenversuche
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
@@ -82,7 +95,7 @@ _herausfinden, dass es eine kursive Schrift gibt, jedoch nur im raw modus
 
 In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobieren. Wir hatten nicht erwartet, nach so kurzer Zeit unser Projekt abzuschließen, leider wurden wir ziemlich enttäuscht. Wir konnten nicht herausfinden, wie man den fertigen Block anwenden könnte. Weder konnten wir Werte für "new x/y/z" eingeben, sodass diese in zweidimensionale umgeschrieben wurden und so der Effekt auftritt, noch konnte man zweidimensionale Werte andersherum in dreidimensionale umschreiben. 
 
-Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot):
+Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot). Ein stärkerer Effekt wird durch den zusätzlichen Block erzeugt (Mitte auf dem Screenshot), der den sprite stets auf die Maus ausrichtet:
 
 ![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "3D Effekt-Blöcke")
 
