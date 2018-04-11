@@ -84,7 +84,7 @@ In der heutigen Stunde waren wir voller Erwartung, den fertigen Block auszuprobi
 
 Nachdem wir Herrn Buhl um Hilfe gebeten hatten und wir keine einfälle mehr hatten, beschlossen wir, noch im Rest der Zeit die anderen beiden 3D Effekt-Bausteine nach dem Vorbild der <a href="https://wiki.scratch.mit.edu/wiki/How_to_Make_a_Three-Dimensional_Project">Scratch-Seite</a> zu bauen. Zum einen ein Block, welcher die mit den Pfeiltasten die Größe des sprites kontolliert (rechts auf dem Screenshot) und einen Block, welcher durch Stapelung (stamps auf der y-Achse) von Bildern des Sprites einen dreidimensionalen Eindruck erschafft (links auf dem Screenshot):
 
-![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "Variablen")
+![bsp applab](https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/Bildverzeichnis/1.3..png?raw=true "3D Effekt-Blöcke")
 
 Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://github.com/Tabea000/3.Informatikprojekt-Projektpraesentation">Projektpräsentation</a> beschrieben und das Snap-Projekt ist über diesen Link veröffentlicht und abrufbar:
 <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">Vorstellung der 3D Effekte</a>
@@ -102,11 +102,11 @@ Die genaueren Zusammenhänge von diesen Blöcken sind in der <a href="https://gi
 Zu Beginn dieser Doppelstunde setzten wir zunächst den Block aus den vorbereiteten Bausteinen zusammen und uns fiel auf, dass Snap! keinen lila Baustein: "define: process vertex" vorliegen hatte. Zahlreiche Versuche den anfangsbaustein durch verschiedene Mittel nachzubauen, scheiterten leider. Unter anderem versuchten wir den Baustein im ganzen mittels "make a block" eigenständig zu erstellen, aber auch den eingesetzten Baustein zu errichten. Doch da kein leerer Startbaustein zu finden war und auch Herr Buhl uns nicht weiterhelfen konnte, entschieden wir uns schließlich für die Ausführung mit dem gewöhnlich Startbaustein, welcher an die Fahne gekoppelt ist. 
 
 Der nicht aufzufindende Startbaustein:
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/define%20process%20vertex.png?raw=true "Variablen")
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/define%20process%20vertex.png?raw=true "define: process vertex")
 
 Unser abgeschlossener Block zum Erschaffen eines 3D-Effektes:
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.2..png?raw=true "Variablen")
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.2..png?raw=true "data representation")
 
 Als wir uns nun freuten, nach der aufwendigen "Bastelarbeit" endlich fertig zu sein, brach der Ablauf des Blockes immer ab. Dies wird durch ein rotes Aufleuchten angezeigt. Unser Baustein behinderte sich folglich selbst, da Bestandteile dem Rest widersprachen und somit die Ausführung gestoppt wird. Somit befassten wir uns den Rest der Stunden mit der Fehleranalyse und wurden schließlich auch fündig. Dafür nahmen wir zunächst den Block auseinander und testeten seine einzelnen Bestandteile. Dabei viel auf, dass die selbstkreierten Bausteine fehlerhaft sein mussten. Wir kontollierten sie und sahen, dass wir beim Zusammenführen von Bausteingruppen zu einelnen Bausteinen den abschließenden "report" - Bausteinen vergessen hatten. 
 
