@@ -47,22 +47,13 @@ Da jedoch dafür, wie bereits erwähnt, sich uns eigentlich die Möglichkeiten v
 Das erste Haus litt jedoch unter der Erscheinung eines windschiefen Daches. Nach einigen Überlegungen fanden wir heraus, dass neben der Funktion, mit der wir die Grundfäche des hauses gezeichnet hatten, es auch möglich ist, den Mittelpunkt festzulegen, auf den das Dach letztendlich bei der Projektion zusammenschrumpft. Somit war dieses Problem auch gelöst und unser erstes haus vollständig und dreidimensional beweglich gebaut.
 
 Das veröffentlichte Projekt dieses haus Effektes ist über den verlinkten Screenshot abrufbar. Dies ist unser erstes Haus auf der Basis eines Rechteckes:
+
 <a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Haus-Effekt">![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.3..png?raw=true "Scratch")</a>
 
-
-
-https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.3..png
-
+Als dieser Erfolg errungen war, entwickelten wir noch verschiedene Häuser, welche wiederum auf verschiedenen Grundflächen aufbauten. Diese sind ebenfalls über das öffentliche Projekt (s. screenshot) abrufbar. Da somit beinahe unser Ziel vom 15.2. erreicht war und Fenster und Türen auf einer anderen Programmierart basiern und somit gänzlich neue Überlegungen erforden würden, schlossen wir zufrieden unser letztes Informatikprojekt ab.    
 
 
 
-Häuser bauen (schiefes Dach -> Mittelpunkt) versch. Formen und Größen
-Sortieren unseres Snap Programms
-
-- Lehrerranking
-
-
-https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Costumes.png
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
@@ -71,13 +62,15 @@ https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/maste
 
 Da uns noch einige Wochen bis zur Abrgabe des Projektes verbleiben, beschlossen wir gleich am Anfang der Stunde den heutigen Tag zunächst derm Stundenblog zu widmen. Da wir mit dem Führen dieses "Kurstagebuchs" bisher verschiedene Erfahrungen gemacht hatten, sahen wir es zu Beginn der nur zwei Monate langen Einheit als zeitsparender an, am Ende jeder Unterrichtsstunde nur kurze Notizen über unsere Fortschritte, Rückschläge und Pläne zu machen, anstatt sehr viel Zeit in das Schreiben von langen Texten zu stecken. So ließen wir diese Arbeit erstmal warten, um soviel wie möglich zu erreichen. Um einen Besseren Überblick am schluss über alle einzelnen Stundenergebnisse zu besitzen, speicherten wir als Abschluss jeder Stunde auf Snap die neuen Blöcke als Datein unter der Bezeichnung des jeweiligen Datums. Dieses Vorgehen wollen wir auch beim Speichern der Screenshots einführen, sodass immer das originale Ergebnis der Stunde zu sehen ist (<a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/tree/master/Bildverzeichnis">s.Bildverseichnis</a>).
 
-Somit begannen wir gemeinsam mit dem Verfassen unserer Texte, was immer ein wenig komplizierter ist, als das Schreiben für sich allein und so auch mehr Zeit beanspruchte. Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, doch dies tun wir guten Gewissens, da uns noch sechs Unterrichtsstunden bereitstehen. 
+Somit begannen wir gemeinsam mit dem Verfassen unserer Texte, was immer ein wenig komplizierter ist, als das Schreiben für sich allein und so auch mehr Zeit beanspruchte. Zudem brachten wir noch etwas mehr Ordnung in unsere Snap!-Projekte und veröffentlichten zum einen die drei verschiedenen Blöcke für dreidimensionale Effekte (<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte">hier</a>) und den Pyramiden-Effekt (<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt">hier</a>) 
 
+Folglich war es uns heute nicht mehr möglich, uns anderen Aufgaben zu widmen, doch dies tun wir guten Gewissens, da uns noch sechs Unterrichtsstunden bereitstehen. 
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/kursiv.png?raw=true "kursiv")
- 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
+
 
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 8.3.2018 1
