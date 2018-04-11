@@ -62,7 +62,7 @@ Somit begannen wir gemeinsam mit dem Verfassen unserer Texte, was immer ein weni
 
 
 
-_Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kursive Schrift im Programm Github gibt. Leider ist diese nach unseren Erkenntnissen nur im raw Modus zu erkennen, weshalb es sich hierbei auch um einen eingefühgten Screenshot handelt. :) 
+_Bei unseren Arbeiten am Blog entdeckten wir durch Zufall noch, dass es eine kursive Schrift im Programm Github gibt. Leider ist diese nach unseren Erkenntnissen nur im raw Modus zu erkennen, weshalb es sich hierbei auch um einen eingefügten Screenshot handelt. :) 
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
