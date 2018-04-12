@@ -22,21 +22,6 @@
 [Neunte Stunde](#neun)
 
 
-Das sind die veröffentlichten Snap Projekte:
-
-
-### Vorstellung der 3D Effekte:
-https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Vorstellung%20der%203D%20Effekte
-
-### Pyramiden-Effekt: 
-https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Pyramiden-Effekt
-
-### Haus-Effekt: 
-https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=3D%20Haus-Effekt
-
-
-
-
 
 ### <a name="neun"></a>Neunte Informatikstunde am 23.3.2018 
 
